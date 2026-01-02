@@ -1,6 +1,6 @@
 # Airline Booking System - Flutter App
 
-This is the mobile frontend for the Airline Booking System. It allows passengers to search flights, book tickets, check in, and view their trips. Staff members can also log in to manage operations.
+This is the mobile frontend for the Airline Booking System. It allows passengers to search flights, book tickets, check in, view boarding passes, and receive flight updates via a dedicated notification center. Staff members can manage flights, create new ones, and monitor operational status.
 
 ## Prerequisites
 

@@ -11,8 +11,9 @@ FastAPI-based backend for an airline booking and operations management system wi
 - ✅ **Seat Hold Mechanism** - 10-minute hold on selected seats
 - ✅ **Mock Payments** - CARD, APPLE_PAY, GOOGLE_PAY support
 - ✅ **Check-In System** - 24-48 hour check-in window
-- ✅ **Announcements** - Flight updates and notifications
-- ✅ **Admin Features** - Staff can manage flights, bookings, and aircraft
+- ✅ **Announcements** - Automated triggers on flight status change
+- ✅ **Admin Features** - Create flights, manage bookings, aircraft, and override seats
+- ✅ **Staff Dashboard** - Full operational control via API and Mobile UI
 
 ## Technology Stack
 
